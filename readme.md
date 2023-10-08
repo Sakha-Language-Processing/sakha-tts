@@ -4,7 +4,7 @@
 
 ## Подготовка
 
-Используйте Python 3.8 - 3.10.
+Используйте Python 3.8 - 3.11.
 
 ```bash
 wget "https://dl.fbaipublicfiles.com/mms/tts/sah.tar.gz"
