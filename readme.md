@@ -27,5 +27,5 @@ python tts.py "Дорообо" "result.wav"
 ## Ссылки
 
 * [The Massively Multilingual Speech (MMS) by Facebook Research](https://github.com/facebookresearch/fairseq/tree/main/examples/mms)
-* [Веса для TTS для якутского языка](https://dl.fbaipublicfiles.com/mms/tts/sah.tar.gz)
+* [Готовые веса из проекта The Massively Multilingual Speech (MMS)](https://dl.fbaipublicfiles.com/mms/tts/sah.tar.gz)
 * [VITS](https://github.com/jaywalnut310/vits)
