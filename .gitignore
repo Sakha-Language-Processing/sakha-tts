@@ -1,0 +1,6 @@
+sah/
+venv/
+vits/
+*.pyc
+*.wav
+sah.tar.gz
